@@ -1,5 +1,5 @@
 # Spr_Inmobiliaria_Lili
- Proyecto colsborativo con GITHUB
+ Proyecto colaborativo con GITHUB
 
  ##Instrucciones##
 
